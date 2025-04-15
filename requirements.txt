@@ -1,0 +1,17 @@
+# Core packages
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+plotly
+
+# Data collection & preprocessing
+yfinance
+snscrape
+beautifulsoup4
+requests
+tqdm
+
+# Jupyter & app
+jupyter
